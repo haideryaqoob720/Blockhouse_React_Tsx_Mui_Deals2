@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blockhouse_React_Tsx_Mui_Deals2/static/css/main.9e835e90.css",
+    "main.js": "/Blockhouse_React_Tsx_Mui_Deals2/static/js/main.5f59b725.js",
+    "static/js/787.3a39cd02.chunk.js": "/Blockhouse_React_Tsx_Mui_Deals2/static/js/787.3a39cd02.chunk.js",
+    "static/media/blockHouseBackground.png": "/Blockhouse_React_Tsx_Mui_Deals2/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
+    "index.html": "/Blockhouse_React_Tsx_Mui_Deals2/index.html",
+    "main.9e835e90.css.map": "/Blockhouse_React_Tsx_Mui_Deals2/static/css/main.9e835e90.css.map",
+    "main.5f59b725.js.map": "/Blockhouse_React_Tsx_Mui_Deals2/static/js/main.5f59b725.js.map",
+    "787.3a39cd02.chunk.js.map": "/Blockhouse_React_Tsx_Mui_Deals2/static/js/787.3a39cd02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e835e90.css",
+    "static/js/main.5f59b725.js"
+  ]
+}
